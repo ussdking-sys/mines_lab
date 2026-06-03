@@ -1,7 +1,5 @@
 # RULES.md — How Mines Works
 
-> **[GAME LINK — TO BE UPDATED]**
-
 ---
 
 ## The Mines Game
