@@ -46,8 +46,6 @@ Everything runs locally in your terminal. No internet required. All data stored 
 
 ## 🎮 Play the Game
 
-> **[GAME LINK — TO BE UPDATED]**
-
 ---
 
 ## Features
