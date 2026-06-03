@@ -1,0 +1,36 @@
+# ============================================================
+# MINES LAB — Python Dependencies
+# ============================================================
+# Install with:
+#   pip install -r requirements.txt
+#
+# Termux:
+#   pip install -r requirements.txt --break-system-packages
+# ============================================================
+
+# ── Terminal UI ──────────────────────────────────────────────
+rich>=13.0.0          # Rich terminal formatting, tables, panels, progress
+colorama>=0.4.6       # Cross-platform ANSI colour support (Windows compat)
+
+# ── Numerical & Statistical ──────────────────────────────────
+numpy>=1.24.0         # Array operations, statistical computations
+scipy>=1.10.0         # Advanced statistics, chi-square tests
+
+# ── Data Analysis ────────────────────────────────────────────
+pandas>=2.0.0         # Session data aggregation and export
+
+# ── Visualisation (optional — for export to PNG/SVG) ─────────
+matplotlib>=3.7.0     # Chart export; not required for terminal-only use
+
+# ── Standard Library (included with Python — listed for clarity) ──
+# hashlib     — SHA256, part of stdlib
+# hmac        — HMAC-SHA256, part of stdlib
+# json        — Data serialisation, part of stdlib
+# sqlite3     — Local database, part of stdlib
+# secrets     — Cryptographically secure RNG, part of stdlib
+# math        — Mathematical functions, part of stdlib
+# statistics  — Descriptive statistics, part of stdlib
+
+# ── Optional enhanced terminal (uncomment if desired) ─────────
+# blessed>=1.20.0     # Advanced terminal control
+# textual>=0.40.0     # TUI framework (heavier dependency)
