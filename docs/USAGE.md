@@ -1,7 +1,5 @@
 # USAGE.md — Installation & Usage Guide
 
-> **[GAME LINK — TO BE UPDATED]**
-
 ---
 
 ## Contents
